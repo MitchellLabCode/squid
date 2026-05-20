@@ -5,7 +5,7 @@ Assembles folders of individual microscopy tiff files into per-region ImageJ
 hyperstacks that Fiji can open with Z, T, and C sliders.
 
 ===============================================================================
-REQUIRED FILE STRUCTURE
+REQUIRED FILE STRUCTURE (default output from squid)
 ===============================================================================
 
     datadir/
